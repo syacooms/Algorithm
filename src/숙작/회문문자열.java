@@ -28,7 +28,7 @@ gooG
 
 YES
  */
-public class Main {
+public class 회문문자열 {
 //    public String solution(String str){
         //1번풀이
 //        String answer = "YES";
@@ -66,7 +66,7 @@ public class Main {
         return answer;
     }
     public static void main(String[] args) {
-        Main M = new Main();
+        회문문자열 M = new 회문문자열();
         Scanner sc = new Scanner(System.in);
         String input = sc.next();
 
