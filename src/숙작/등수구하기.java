@@ -33,6 +33,7 @@ N명의 학생의 국어점수가 입력되면 각 학생의 등수를 입력된
 
 public class 등수구하기 {
     // 정답이지만.. 문제의 조건이 이게 맞나 싶음.
+    // 정정 이게 맞음 ㅅㄱ
     public int[] solution(int in, int[] arr){
         int[] answer = new int[in];
 
