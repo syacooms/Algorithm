@@ -107,6 +107,7 @@ leetCode Javascript 코테 대비용 문제 추가
 
 ##### 1. [Palindrome Number](leetCode/PalindromeNumber.js)
 ##### 2. [Longest Common Prefix](leetCode/LongestCommonPrefix.js)
+##### 3. [Valid Parentheses](leetCode/ValidParentheses.js)
 
 <hr>
 
