@@ -1,5 +1,7 @@
 // https://leetcode.com/problems/search-insert-position/
 
+//Index 찾는 문제 없을 경우 순서대로 넣을 Index 반환
+
 /**
  * @param {number[]} nums
  * @param {number} target

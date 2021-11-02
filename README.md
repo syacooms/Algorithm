@@ -181,7 +181,9 @@ leetCode Javascript 코테 대비용 문제 추가
 
 ##### 7. [Implement strStr()](<leetCode/implementstrStr().js>)
 
-##### 7. [Search Insert Position](leetCode/SearchInsertPosition.js)
+##### 8. [Search Insert Position](leetCode/SearchInsertPosition.js)
+
+##### 9. [Length of Last Word](leetCode/LengthofLastWord.js)
 
 <hr>
 
